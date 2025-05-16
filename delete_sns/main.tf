@@ -7,6 +7,3 @@
             use_lockfile = true
         }
     }
-    provider "aws" {
-    region = var.region
-    }
